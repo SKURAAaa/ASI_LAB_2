@@ -1,0 +1,1 @@
+{"raw_data": {"rows": 1460, "columns": 81}, "processed_data": {"rows": 1456, "columns": 38}, "X_train": {"rows": 1019, "columns": 37, "file_size": 311581}, "X_val": {"rows": 218, "columns": 37, "file_size": 68074}, "X_test": {"rows": 219, "columns": 37, "file_size": 68378}}
