@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# ASI_LAB_2
-=======
-# LAB_2_ASI
-
 ## Overview
 
 This is your new Kedro project, which was generated using `kedro 0.19.9`.
